@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  FoodTracker
 //
-//  Created by Yuchen on 10/3/17.
-//  Copyright © 2017 LEXI'S. All rights reserved.
+//  Created by Jane Appleseed on 10/17/16.
+//  Copyright © 2016 Apple Inc. All rights reserved.
 //
 
 import UIKit
