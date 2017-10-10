@@ -9,3 +9,6 @@ So I downloaded the demonstration in section "Implement a custon control" and us
 After I have finished the section "Creat a Table View", everything goes normally.
 
 Finally, I finished following steps and build an FoodTracker APP.
+
+
+Trello: https://trello.com/b/DxuvwzWN/ec602-homework2
