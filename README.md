@@ -6,4 +6,6 @@ No matter how I tried, I couldn't make the red button looks like what I set by a
 
 So I downloaded the demonstration in section "Implement a custon control" and use it to continue the following tutorials.
 
-Here I have finished the section "Creat a Table View". So far so good.
+After I have finished the section "Creat a Table View", everything goes normally.
+
+Finally, I finished following steps and build an FoodTracker APP.
