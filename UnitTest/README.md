@@ -6,5 +6,5 @@ This is the test for EC601 Homework2 iOS application FoodTracker.
 * Generate your own test cases.
 * Run your own black box testing
 
-The testcases are shown in [TestCaseSheetFoodTracker.xlsx](FoodTracker_iOS/UnitTest/TestCaseSheetFoodTracker.xlsx)
+The testcases are shown in [TestCaseSheetFoodTracker.xlsx]()
 
